@@ -1,5 +1,5 @@
 # ESBR-Game-Rating-Prediction-using-SVM
-```
+
 ![xx](https://github.com/H8-Assignments-Bay/p1---ftds006---m2-hafidzali04/blob/58ec0d540e85ec1c2b50119b74b930e3d9bbea18/Screenshot%202022-01-13%20204248.png)
 _Milestones ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada Phase 1._
 
